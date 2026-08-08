@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0189-rotate-array) |
 | [0896-monotonic-array](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0896-monotonic-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/3005-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
