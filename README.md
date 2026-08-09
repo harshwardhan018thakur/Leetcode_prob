@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0268-missing-number) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
