@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -68,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0316-remove-duplicate-letters) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
