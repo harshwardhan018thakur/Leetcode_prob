@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -59,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0387-first-unique-character-in-a-string) |
