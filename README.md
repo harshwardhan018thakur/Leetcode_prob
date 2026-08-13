@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0344-reverse-string) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0387-first-unique-character-in-a-string) |
