@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0056-merge-intervals](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0189-rotate-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0268-missing-number) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0287-find-the-duplicate-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
