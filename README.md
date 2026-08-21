@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0451-sort-characters-by-frequency) |
 | [0720-longest-word-in-dictionary](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0720-longest-word-in-dictionary) |
+| [1328-break-a-palindrome](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/1328-break-a-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0316-remove-duplicate-letters) |
+| [1328-break-a-palindrome](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/1328-break-a-palindrome) |
 ## Monotonic Stack
 |  |
 | ------- |
