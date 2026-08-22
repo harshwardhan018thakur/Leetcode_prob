@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0509-fibonacci-number) |
 ## Array
