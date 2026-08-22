@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
