@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0283-move-zeroes) |
@@ -178,4 +179,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0056-merge-intervals) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
