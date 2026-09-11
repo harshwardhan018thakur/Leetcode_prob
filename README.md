@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0287-find-the-duplicate-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0350-intersection-of-two-arrays-ii) |
