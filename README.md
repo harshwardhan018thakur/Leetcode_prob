@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0720-longest-word-in-dictionary) |
+| [0875-koko-eating-bananas](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0896-monotonic-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0875-koko-eating-bananas](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
