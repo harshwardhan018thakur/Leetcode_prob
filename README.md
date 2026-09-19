@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0200-number-of-islands) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0287-find-the-duplicate-number) |
