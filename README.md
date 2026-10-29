@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0720-longest-word-in-dictionary) |
 | [0875-koko-eating-bananas](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0896-monotonic-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0451-sort-characters-by-frequency) |
 | [0720-longest-word-in-dictionary](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0720-longest-word-in-dictionary) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## String
 |  |
 | ------- |
