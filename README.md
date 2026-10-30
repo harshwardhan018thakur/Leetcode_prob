@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0454-4sum-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0303-range-sum-query-immutable) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0200-number-of-islands) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
