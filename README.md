@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0720-longest-word-in-dictionary) |
 | [0875-koko-eating-bananas](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0896-monotonic-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0918-maximum-sum-circular-subarray) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
@@ -145,10 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0918-maximum-sum-circular-subarray) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0918-maximum-sum-circular-subarray) |
 ## Memoization
 |  |
 | ------- |
@@ -217,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0303-range-sum-query-immutable) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
