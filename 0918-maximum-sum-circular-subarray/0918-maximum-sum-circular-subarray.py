@@ -1,0 +1,19 @@
+class Solution:
+    def maxSubarraySumCircular(self, nums: list[int]) -> int:
+        maxi = nums[0]
+        mini = nums[0]
+        curr_max = 0
+        curr_min = 0
+        total = 0
+        for i in  nums:
+            curr_max = max(i,curr_max+i)
+            curr_min = min(i,curr_min+i)
+            maxi = max(maxi,curr_max)
+            mini = min(mini,curr_min)
+            total += i
+        if maxi <0:
+            return maxi
+        return max(maxi,total-mini)
+
+
+            
