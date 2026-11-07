@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0896-monotonic-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0918-maximum-sum-circular-subarray) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0451-sort-characters-by-frequency) |
 | [0720-longest-word-in-dictionary](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0720-longest-word-in-dictionary) |
 | [1328-break-a-palindrome](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/1328-break-a-palindrome) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Stack
 |  |
 | ------- |
