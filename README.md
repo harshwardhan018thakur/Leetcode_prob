@@ -227,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/0918-maximum-sum-circular-subarray) |
+## Database
+|  |
+| ------- |
+| [1934-confirmation-rate](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
