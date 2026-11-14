@@ -230,5 +230,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1174-immediate-food-delivery-ii](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/1174-immediate-food-delivery-ii) |
 | [1934-confirmation-rate](https://github.com/harshwardhan018thakur/Leetcode_prob/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
